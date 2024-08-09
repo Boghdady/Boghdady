@@ -1,7 +1,7 @@
 # Hi there, I'm Ahmed! 👋
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=boghdady&show_icons=true&theme=gruvbox"/>
-<img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+<img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boghdady&layout=compact"/>
 <br/>
 <br/>
 <br/>
