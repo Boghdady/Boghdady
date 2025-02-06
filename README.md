@@ -19,9 +19,15 @@ c
 <img align="left" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/><br/><br/>
+<img align="left" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
+<img align="left" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/-gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/-BullMQ-D7263D?style=for-the-badge&logo=bullmq&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/-AWS%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<br/>
+<br/><br/><br/>
+
 
 # 📋 Programming Languages
 
