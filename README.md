@@ -1,7 +1,10 @@
 # Hi there, I'm Ahmed! 👋
 About me
 
-I am a passionate software engineer with a BSc in Computer Science and a deep love for building things from scratch. Since 2014, I've been developing websites and apps, focusing on delivering high-quality, practical solutions. My goal is to create and explain practical courses that empower educators at all levels, providing them with the skills and confidence to succeed in their teaching journeys.
+Experienced Backend Engineer with 7+ years of expertise in designing and developing scalable systems
+for diverse industries such as food delivery, SaaS, and POS. Have a good knowledge in microservices
+architecture, CI/CD pipelines, and backend optimization. Passionate about mentoring teams and delivering
+real-world backend courses.
 
 ---
 
