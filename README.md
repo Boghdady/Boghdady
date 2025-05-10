@@ -1,7 +1,7 @@
 # Hi there, I'm Ahmed! 👋
 About me
 
-Backend Engineer with 7+ years of expertise in designing and developing scalable systems
+Backend Engineer with expertise in designing and developing scalable systems
 for diverse industries such as food delivery, SaaS, and POS. Have a good knowledge in microservices
 architecture, CI/CD pipelines, and backend optimization. Passionate about mentoring teams and delivering
 real-world backend courses.
