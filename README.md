@@ -25,7 +25,7 @@ real-world backend courses.
 <img align="left" src="https://img.shields.io/badge/Lombok-999999?style=for-the-badge&logo=java&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 ---
 
